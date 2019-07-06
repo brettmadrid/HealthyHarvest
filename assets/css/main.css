@@ -2027,3 +2027,8 @@ input, select, textarea {
 		display: flex;
 		justify-content: space-around;
 	}
+
+	.contact-container {
+		width: 40%;
+		margin: 0 30%;
+	}
