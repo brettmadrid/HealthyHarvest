@@ -2032,3 +2032,14 @@ input, select, textarea {
 		width: 40%;
 		margin: 0 30%;
 	}
+
+	.image-container {
+		display: flex;
+		flex-flow: row wrap;
+	}
+
+	.image-container img {
+		margin: 2% auto;
+		max-width: 100%;
+		height: auto;
+	}
